@@ -54,3 +54,8 @@ nav > .logo {
 	margin-top: 46px;
 	max-width: 400px;
 }
+
+.react-facts-list > li {
+	line-height: 19px;
+	padding-block: 10px;
+}
