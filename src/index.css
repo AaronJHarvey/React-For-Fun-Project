@@ -23,3 +23,8 @@ nav > h3 {
 	margin-right: auto;
 	color: #61dafb;
 }
+
+nav > h4 {
+	color: #deebf8;
+	font-weight: 600;
+}
