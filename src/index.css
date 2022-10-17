@@ -59,3 +59,8 @@ nav > .logo {
 	line-height: 19px;
 	padding-block: 10px;
 }
+
+.react-facts-list > li::marker {
+	font-size: 1.4rem;
+	color: #61dafb;
+}
