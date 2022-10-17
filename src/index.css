@@ -38,3 +38,8 @@ nav > .logo {
 	background-color: #282d35;
 	height: 100vw;
 }
+
+.main-section {
+	padding: 57px 27px;
+	color: white;
+}
