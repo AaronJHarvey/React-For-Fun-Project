@@ -49,3 +49,8 @@ nav > .logo {
 	margin: 0;
 	letter-spacing: -.05em;
 }
+
+.react-facts-list {
+	margin-top: 46px;
+	max-width: 400px;
+}
