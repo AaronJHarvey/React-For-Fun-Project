@@ -14,3 +14,7 @@ nav {
 	height: 90px;
 	padding: 30px 25px;
 }
+nav > h3,
+nav > h4 {
+	margin: 0;
+}
