@@ -33,3 +33,8 @@ nav > .logo {
 	height: 30px;
 	margin-right: 7px;
 }
+
+.container {
+	background-color: #282d35;
+	height: 100vw;
+}
