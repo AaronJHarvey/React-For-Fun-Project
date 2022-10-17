@@ -43,3 +43,9 @@ nav > .logo {
 	padding: 57px 27px;
 	color: white;
 }
+
+.main-title {
+	font-size: 39px;
+	margin: 0;
+	letter-spacing: -.05em;
+}
