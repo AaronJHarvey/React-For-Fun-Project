@@ -42,6 +42,9 @@ nav > .logo {
 .main-section {
 	padding: 57px 27px;
 	color: white;
+	background-image: url(../src/images/react-icon-large.png);
+	background-repeat: no-repeat;
+	background-position: right 75%;
 }
 
 .main-title {
